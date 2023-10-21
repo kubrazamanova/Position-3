@@ -37,6 +37,8 @@
   font-weight: 800;
   line-height: 64px;
   letter-spacing: -1px;
+
+
 }
 
 .container .number ul {
@@ -73,9 +75,9 @@
   font-style: normal;
   font-weight: 400;
   line-height: 24px;
-  position: absolute;
-  top: -8px;
-  right: -8px;
+  position:absolute ;
+  top: -;
+  right: -5px;
 }
 
 .box-33 {
